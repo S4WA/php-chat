@@ -18,8 +18,8 @@
   <title>index.php</title>
 </head>
 <body>
-  <table id="chat">
-  </table>
+  <div id="chat">
+  </div>
   <form method="post" action="">
     Message <input type="text" name="message" autocomplete="off">
     <button name="send" type="submit">Submit</button>
